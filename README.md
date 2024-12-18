@@ -48,4 +48,3 @@ Découvrez Smoozy, une application web conçue pour les familles recomposées, f
 N'hésitez pas à me contacter pour discuter de vos projets ou pour toute opportunité d'alternance.
 
 - **LinkedIn**: [Paul Decalf](https://www.linkedin.com/in/paul-decalf-a91a9b1b0/)
-- **Malt**: [Paul Decalf](https://www.malt.fr/profile/pauldecalf)
